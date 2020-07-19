@@ -1,0 +1,31 @@
+body {
+  background-color: #e3fdfd;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 7px;
+}
+
+h3{
+  height: 50px;
+  line-height: 40px;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+table{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+td {
+  width: auto;
+}
+
+.center {
+  margin: auto;
+}
